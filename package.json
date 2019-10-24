@@ -19,7 +19,7 @@
     "co-filter":"*",
     "co-request":"*",
     "co-busboy":"*",
-    "mongoose": "^3.8.24",
+    "mongoose": "^5.4.10",
     "moment": "^2.8.4",
     "lodash":"3.3.1",
     "validator": "3.22.1",
